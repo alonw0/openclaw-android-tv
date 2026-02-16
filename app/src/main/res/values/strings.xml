@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">OpenClaw TV</string>
+    <string name="app_description">OpenClaw companion node for Android TV</string>
+    
+    <!-- Connection -->
+    <string name="status_connecting">Connecting…</string>
+    <string name="status_connected">Connected</string>
+    <string name="status_offline">Offline</string>
+    <string name="status_error">Connection Error</string>
+    
+    <!-- Crab Mascot -->
+    <string name="crab_sleeping">Clawd is sleeping</string>
+    <string name="crab_listening">Listening…</string>
+    <string name="crab_thinking">Thinking…</string>
+    <string name="crab_talking">Talking</string>
+    <string name="crab_success">Success!</string>
+    <string name="crab_error">Oops!</string>
+    
+    <!-- Actions -->
+    <string name="action_connect">Connect</string>
+    <string name="action_disconnect">Disconnect</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_chat">Chat</string>
+    <string name="action_hide_crab">Hide Crab</string>
+    <string name="action_show_crab">Show Crab</string>
+    
+    <!-- Settings -->
+    <string name="settings_gateway">Gateway</string>
+    <string name="settings_auto_discover">Auto-discover</string>
+    <string name="settings_manual">Manual Connection</string>
+    <string name="settings_crab">Crab Mascot</string>
+    <string name="settings_crab_size">Size</string>
+    <string name="settings_crab_visible">Visible</string>
+    <string name="settings_voice">Voice</string>
+    <string name="settings_voice_wake">Voice Wake</string>
+    <string name="settings_audio">Audio</string>
+</resources>

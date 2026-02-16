@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="160dp"
+    android:height="160dp"
+    android:viewportWidth="16"
+    android:viewportHeight="16">
+  <!-- Simple placeholder lobster shape -->
+  <path
+      android:fillColor="#FF4F40"
+      android:pathData="M5,3 h6 v1 h-6 z M4,4 h8 v1 h-8 z M3,5 h10 v3 h-10 z M4,8 h8 v1 h-8 z M5,9 h6 v1 h-6 z M5,12 h6 v1 h-6 z M6,13 h4 v1 h-4 z"/>
+  <!-- Claws -->
+  <path
+      android:fillColor="#FF775F"
+      android:pathData="M1,6 h2 v1 h-2 z M2,5 h1 v1 h-1 z M2,7 h1 v1 h-1 z M13,6 h2 v1 h-2 z M13,5 h1 v1 h-1 z M13,7 h1 v1 h-1 z"/>
+  <!-- Eyes -->
+  <path
+      android:fillColor="#081016"
+      android:pathData="M6,5 h1 v1 h-1 z M9,5 h1 v1 h-1 z"/>
+  <path
+      android:fillColor="#F5FBFF"
+      android:pathData="M6,4 h1 v1 h-1 z M9,4 h1 v1 h-1 z"/>
+</vector>

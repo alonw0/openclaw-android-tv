@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="320dp"
+    android:height="180dp"
+    android:viewportWidth="320"
+    android:viewportHeight="180">
+  
+  <!-- Background -->
+  <path
+      android:fillColor="#0F1419"
+      android:pathData="M0,0 L320,0 L320,180 L0,180 Z"/>
+  
+  <!-- Lobster/Crab centered on 320x180 canvas -->
+  <!-- Center of canvas is (160, 90), crab center shifted to align -->
+  
+  <!-- Main body centered -->
+  <path
+      android:fillColor="#ff4d4d"
+      android:pathData="M160,40 
+                        C130,40 115,60 115,77 
+                        C115,94 130,111 145,115 
+                        L145,123 155,123 155,115 
+                        C155,115 160,117 165,115 
+                        L165,123 175,123 175,115 
+                        C190,111 205,94 205,77 
+                        C205,60 190,40 160,40 Z"/>
+  
+  <!-- Left Claw -->
+  <path
+      android:fillColor="#ff4d4d"
+      android:pathData="M120,60 
+                        C105,55 100,64 105,73 
+                        C110,82 120,77 125,68 
+                        C128,62 125,60 120,60 Z"/>
+  
+  <!-- Right Claw -->
+  <path
+      android:fillColor="#ff4d4d"
+      android:pathData="M200,60 
+                        C215,55 220,64 215,73 
+                        C210,82 200,77 195,68 
+                        C192,62 195,60 200,60 Z"/>
+  
+  <!-- Left Antenna -->
+  <path
+      android:fillColor="#ff4d4d"
+      android:pathData="M145,45 Q135,37 130,40"/>
+  
+  <!-- Right Antenna -->
+  <path
+      android:fillColor="#ff4d4d"
+      android:pathData="M175,45 Q185,37 190,40"/>
+  
+  <!-- Left Eye (outer) -->
+  <path
+      android:fillColor="#050810"
+      android:pathData="M145,57 
+                        A6,6 0 1,1 145,69 
+                        A6,6 0 1,1 145,57 Z"/>
+  
+  <!-- Right Eye (outer) -->
+  <path
+      android:fillColor="#050810"
+      android:pathData="M175,57 
+                        A6,6 0 1,1 175,69 
+                        A6,6 0 1,1 175,57 Z"/>
+  
+  <!-- Left Eye (inner highlight) -->
+  <path
+      android:fillColor="#00e5cc"
+      android:pathData="M146,56 
+                        A2.5,2.5 0 1,1 146,61 
+                        A2.5,2.5 0 1,1 146,56 Z"/>
+  
+  <!-- Right Eye (inner highlight) -->
+  <path
+      android:fillColor="#00e5cc"
+      android:pathData="M176,56 
+                        A2.5,2.5 0 1,1 176,61 
+                        A2.5,2.5 0 1,1 176,56 Z"/>
+  
+</vector>

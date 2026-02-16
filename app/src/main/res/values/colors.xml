@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- OpenClaw Brand Colors -->
+    <color name="primary">#FF6B4A</color>
+    <color name="primary_variant">#FF4F40</color>
+    <color name="on_primary">#FFFFFF</color>
+    
+    <color name="secondary">#4F7A9A</color>
+    <color name="secondary_variant">#3A5A75</color>
+    <color name="on_secondary">#FFFFFF</color>
+    
+    <!-- Background -->
+    <color name="background">#121212</color>
+    <color name="on_background">#FFFFFF</color>
+    
+    <!-- Surface -->
+    <color name="surface">#1E1E1E</color>
+    <color name="surface_variant">#2D2D2D</color>
+    <color name="on_surface">#FFFFFF</color>
+    <color name="on_surface_variant">#B3FFFFFF</color>
+    
+    <!-- Error -->
+    <color name="error">#FF4444</color>
+    <color name="on_error">#FFFFFF</color>
+    
+    <!-- Crab Colors -->
+    <color name="crab_body">#FF4F40</color>
+    <color name="crab_claws">#FF775F</color>
+    <color name="crab_eyes">#081016</color>
+    <color name="crab_highlight">#F5FBFF</color>
+    <color name="crab_success">#51CF66</color>
+    <color name="crab_error">#FF6B6B</color>
+    
+    <!-- Status -->
+    <color name="status_connected">#51CF66</color>
+    <color name="status_connecting">#FFC107</color>
+    <color name="status_offline">#9E9E9E</color>
+    <color name="status_error">#FF4444</color>
+</resources>

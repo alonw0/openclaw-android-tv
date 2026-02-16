@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- TV-safe overscan margins (5%) -->
+    <dimen name="overscan_horizontal">48dp</dimen>
+    <dimen name="overscan_vertical">27dp</dimen>
+    
+    <!-- Crab Mascot -->
+    <dimen name="crab_size_default">160dp</dimen>
+    <dimen name="crab_size_small">120dp</dimen>
+    <dimen name="crab_size_large">200dp</dimen>
+    <dimen name="crab_margin">24dp</dimen>
+    
+    <!-- Navigation -->
+    <dimen name="focus_padding">12dp</dimen>
+    <dimen name="focus_stroke_width">4dp</dimen>
+    
+    <!-- Cards -->
+    <dimen name="card_width">240dp</dimen>
+    <dimen name="card_height">160dp</dimen>
+    <dimen name="card_corner_radius">8dp</dimen>
+    <dimen name="card_elevation">8dp</dimen>
+    
+    <!-- Text -->
+    <dimen name="text_headline">48sp</dimen>
+    <dimen name="text_title">34sp</dimen>
+    <dimen name="text_body">18sp</dimen>
+    <dimen name="text_caption">14sp</dimen>
+    
+    <!-- Chat Panel -->
+    <dimen name="chat_panel_width">400dp</dimen>
+    <dimen name="chat_item_padding">16dp</dimen>
+</resources>
