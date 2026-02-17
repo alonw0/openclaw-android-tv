@@ -9,13 +9,17 @@ Notes:
 - **Floating Crab Mascot** - visual indicator overlay on all screens (requires "Draw over other apps" permission).
 - Supports Android TV (`minSdk 31`, Kotlin + Jetpack Compose + Leanback UI).
 
+## Demo
+
+https://github.com/user-attachments/assets/ff1e0a87-3917-4ff1-b953-21120658841d
+
 ## Open in Android Studio
-- Open the folder `apps/android-tv`.
+- Open the folder `openclaw-android-tv`.
 
 ## Build / Run
 
 ```bash
-cd apps/android-tv
+cd openclaw-android-tv
 ./gradlew :app:assembleDebug
 ./gradlew :app:installDebug
 ./gradlew :app:testDebugUnitTest
